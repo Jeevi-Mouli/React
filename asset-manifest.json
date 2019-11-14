@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/krishna-transports/static/css/main.b100e6da.chunk.css",
+    "main.js": "/krishna-transports/static/js/main.2cffa987.chunk.js",
+    "main.js.map": "/krishna-transports/static/js/main.2cffa987.chunk.js.map",
+    "runtime-main.js": "/krishna-transports/static/js/runtime-main.0249c15f.js",
+    "runtime-main.js.map": "/krishna-transports/static/js/runtime-main.0249c15f.js.map",
+    "static/js/2.40c823c5.chunk.js": "/krishna-transports/static/js/2.40c823c5.chunk.js",
+    "static/js/2.40c823c5.chunk.js.map": "/krishna-transports/static/js/2.40c823c5.chunk.js.map",
+    "index.html": "/krishna-transports/index.html",
+    "precache-manifest.25b8af06529e2d3df1b3c18de95de7bb.js": "/krishna-transports/precache-manifest.25b8af06529e2d3df1b3c18de95de7bb.js",
+    "service-worker.js": "/krishna-transports/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/krishna-transports/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/krishna-transports/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0249c15f.js",
+    "static/js/2.40c823c5.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.2cffa987.chunk.js"
+  ]
+}
